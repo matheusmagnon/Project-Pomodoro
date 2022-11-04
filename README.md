@@ -1,4 +1,4 @@
-# Coffee-Delivery (Aplicação para delivery de cafés)
+# Pomodoro (Aplicação de excutação de tarefas com auxilio de um cronômetro)
 Desafio de React do ignite (Rocketseat)
 
 ## Capa
