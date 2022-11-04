@@ -33,7 +33,7 @@ cd Project-pomodoro
 ```
 3. Instale as dependências necessárias 
 ```bash
-npm init
+npm install
 ```
 4. Execute o projeto
 ```bash
